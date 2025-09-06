@@ -335,7 +335,7 @@ QScrollBar:horizontal {
 }
 
 QScrollBar::handle:horizontal {
-    background-color: #8087A2;
+    background-color: #6272A4;
     min-width: 5px;
     border-radius: 4px;
 }
@@ -394,7 +394,7 @@ QScrollBar:vertical {
 }
 
 QScrollBar::handle:vertical {
-    background-color: #8087A2;
+    background-color: #6272A4;
     min-height: 24px;
     border-radius: 4px;
 }
@@ -480,7 +480,7 @@ QMainWindow::separator {
 }
 
 QMainWindow::separator:hover {
-    background-color: #8087A2;
+    background-color: #6272A4;
     color: white;
     padding-left: 4px;
     border: 1px solid #282A36;
@@ -751,7 +751,7 @@ QTabBar QToolButton {
 
 QTabBar QToolButton::hover {
     background: #282A36;
-    border: 1px solid #8087A2;
+    border: 1px solid #6272A4;
 }
 
 QTabBar::scroller {
